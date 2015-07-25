@@ -19,3 +19,8 @@ This folder will contain a file *details.lastsync*, which will hold information 
 # Todos - 
 * Should we rename the package? To somethiing like fsyncer/dirsyncer/etc.?
 * Should we start commiting from sratch, since the commits pushed in now are not for incremental changed. I have pushed in multiple improvements in a single commit.
+
+
+# Related projects - 
+* dirsync (https://pypi.python.org/pypi/dirsync/2.1))
+    * XXX. How is this different?
